@@ -1,0 +1,23 @@
+input[type=text], input[type=password], input[type=number]
+{
+    display: block;
+    background-color: lightblue;
+    color: white;
+    padding: 15px 20px;
+    margin: 7px 0;
+    border: none;
+    cursor: pointer;
+    width: 25%;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 15px 20px;
+    margin: 12px 0;
+    border: none;
+    cursor: pointer;
+    width: 25%;
+    
+  }
+  
